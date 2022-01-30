@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="result">Result:</string>
+    <string name="ot_styp">otrzymał stypendium</string>
+    <string name="nie_ot_st">nie otrzymał stypendium</string>
+    <string name="z_ker">\" z kierunku \"</string>
+</resources>

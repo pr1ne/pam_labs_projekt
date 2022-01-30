@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".autor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:orientation="vertical"
+        app:layout_constraintBaseline_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/imieA"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Den"/>
+        <TextView
+            android:id="@+id/nazwiskoA"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Kniaz"/>
+        <TextView
+            android:id="@+id/kierunekA"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="kierunek"/>
+        <TextView
+            android:id="@+id/rokA"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="rok"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:onClick="edit"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home"
+            android:onClick="backHome"/>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

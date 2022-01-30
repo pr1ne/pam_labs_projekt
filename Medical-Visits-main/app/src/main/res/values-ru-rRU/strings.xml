@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Медицинские визиты</string>
+    <string name="newVisitButton">Новый визит</string>
+    <string name="this_is_activity_four">Ето 4 активность</string>
+    <string name="HomeTitle">Главная</string>
+    <string name="Cab2">К. 151</string>
+    <string name="Cab1">К. 105Б</string>
+    <string name="Cab3">К. 5/12</string>
+    <string name="Cab4">К. 536</string>
+    <string name="Cab5">К. 35</string>
+    <string name="Addr1">Люблин, областная больница</string>
+    <string name="Addr2">Люблин, областная больница</string>
+    <string name="Addr3">Люблин, областная больница</string>
+    <string name="Addr4">Люблин, Независимая общественная больница</string>
+    <string name="Addr5">Люблин, Люксмед</string>
+    <string name="Name1">Марина Кокошкина</string>
+    <string name="Name2">Юзеф Пилсудский</string>
+    <string name="Name3">Марк Кокфилд</string>
+    <string name="Name4">Сара Мархевка</string>
+    <string name="Name5">Ариэль Хоффман</string>
+    <string name="dark_light_default">Cменить тему</string>
+    <string name="profil">Тест всплывашки</string>
+    <string name="cancel">Отмена</string>
+    <string name="add">Добавить</string>
+    <string name="home_button">На главную</string>
+    <string name="choose_time">Выбор времени</string>
+    <string name="choose_doctor">Выбор места</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="next">Следующая</string>
+    <string name="login">Авторизоваться</string>
+    <string name="don_t_have_an_account_sign_in">У вас нет аккаунта? Войти</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="signed">Зарегистрироваться</string>
+    <string name="already_have_an_account_login">У вас уже есть аккаунт? Авторизоваться</string>
+    <string name="successfully_signed_up">Успешно зарегистрирован</string>
+    <string name="singed_up_failed">Регистрация не удалась!</string>
+    <string name="password_dont_match">Пароль и подтверждение пароля не совпадают</string>
+    <string name="blank_data">Электронная почта и пароль не могут быть пустыми</string>
+    <string name="succ_log">Успешный вход</string>
+    <string name="fail_log">Вход в систему не удался</string>
+    <string name="settings">Авторизоваться</string>
+    <string name="sign_up">Регистрация</string>
+</resources>

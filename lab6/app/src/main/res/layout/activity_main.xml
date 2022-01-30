@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up"
+            android:id="@+id/textinfo"
+            android:layout_gravity="center"/>
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sign_up1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_margin="15dp"
+            android:backgroundTint="@color/bgColor"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="15dp"
+            android:text="@string/sign_up"
+            android:textAllCaps="false"
+            android:textColor="@color/main"
+            android:textSize="18sp"
+            app:cornerRadius="15dp"
+            app:elevation="100dp"
+            app:icon="@drawable/ic_baseline_add_24"
+            app:iconGravity="textStart"
+            app:iconPadding="15dp"
+            app:iconSize="30dp"
+            app:iconTint="@color/main" />
+        <com.google.android.material.button.MaterialButton
+        android:id="@+id/btndelete"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="15dp"
+        android:backgroundTint="@color/main"
+        android:insetLeft="0dp"
+        android:insetTop="0dp"
+        android:insetRight="0dp"
+        android:insetBottom="0dp"
+        android:paddingHorizontal="30dp"
+        android:paddingVertical="15dp"
+        android:text="@string/delete_user"
+        android:textAllCaps="false"
+        android:textColor="@color/textColor"
+        android:textSize="18sp"
+        app:cornerRadius="15dp"
+        app:elevation="100dp"/>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnbshow"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="15dp"
+            android:backgroundTint="@color/main"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="15dp"
+            android:text="@string/show_profil"
+            android:textAllCaps="false"
+            android:textColor="@color/textColor"
+            android:textSize="18sp"
+            app:cornerRadius="15dp"
+            app:elevation="100dp"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+

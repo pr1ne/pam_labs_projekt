@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".editAut">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:orientation="vertical"
+        app:layout_constraintBaseline_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <EditText
+            android:id="@+id/imie"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="kok"/>
+        <EditText
+            android:id="@+id/nazwisko"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="lolowicz"/>
+        <EditText
+            android:id="@+id/kierunek"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="kierunek"/>
+        <EditText
+            android:id="@+id/rok"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:inputType="number"
+            android:text="1996"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:onClick="save"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home"
+            android:onClick="backHome"/>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

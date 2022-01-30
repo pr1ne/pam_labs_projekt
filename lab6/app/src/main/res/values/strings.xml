@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Medical Visits</string>
+    <string name="newVisitButton">New visit</string>
+    <string name="this_is_activity_four">This is activity four</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account? Sign In</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="signed">Sign in</string>
+    <string name="already_have_an_account_login">Already have an account? Log In</string>
+    <string name="successfully_signed_up">Successfully Signed Up</string>
+    <string name="singed_up_failed">Signed Up Failed!</string>
+    <string name="password_dont_match">Password and Confirm Password do not match</string>
+    <string name="blank_data">Email and Password can\'t be blank</string>
+    <string name="succ_log">Successfully Logged In</string>
+    <string name="fail_log">Login failed</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="delete_user">Delete user</string>
+    <string name="User_account_deleted">User account deleted</string>
+    <string name="show_profil">show profil</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizyty lekarskie</string>
+    <string name="newVisitButton">Nowa wizyta</string>
+    <string name="this_is_activity_four">To jest aktywnosc 4</string>
+    <string name="HomeTitle">Dom</string>
+    <string name="Name1">Marina Kokoshkina</string>
+    <string name="Name2">Jozefa Piłka</string>
+    <string name="Name3">Mark Cocfield</string>
+    <string name="Name4">Sara Marchewka</string>
+    <string name="Name5">Ariel Hoffman</string>
+    <string name="Addr1">Lublin, Szpital wojewódzki</string>
+    <string name="Addr2">Lublin, Szpital wojewódzki</string>
+    <string name="Addr3">Lublin, Szpital wojewódzki</string>
+    <string name="Addr4">Lublin, Samodzielny Publiczny Szpital</string>
+    <string name="Addr5">Lublin, Luxmed</string>
+    <string name="Cab1">Cab. 105B</string>
+    <string name="Cab2">Cab. 151</string>
+    <string name="Cab3">Cab. 5/12</string>
+    <string name="Cab4">Cab. 536</string>
+    <string name="Cab5">Cab. 35</string>
+    <string name="dark_light_default">Zmień motyw</string>
+    <string name="settings">Logowanie</string>
+    <string name="profil">Testowanie toast</string>
+    <string name="cancel">Anuluj</string>
+    <string name="add">Dodać</string>
+    <string name="home_button">Do głównej</string>
+    <string name="choose_time">Wybierz czas</string>
+    <string name="choose_doctor">Wybierz miejsce</string>
+    <string name="next">Następny</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="login">Zaloguj sie</string>
+    <string name="don_t_have_an_account_sign_in">Nie masz konta? Zaloguj</string>
+    <string name="confirm_password">Potwierdź hasło</string>
+    <string name="signed">Zalogować</string>
+    <string name="already_have_an_account_login">Posiadasz już konto? Zaloguj sie</string>
+    <string name="successfully_signed_up">Zarejestrowano się pomyślnie</string>
+    <string name="singed_up_failed">Rejestracja nie powiodła się!</string>
+    <string name="password_dont_match">Hasło i Potwierdź hasło nie pasują</string>
+    <string name="blank_data">E-mail i hasło nie mogą być puste</string>
+    <string name="succ_log">Zalogowano się pomyślnie</string>
+    <string name="fail_log">Logowanie nie powiodło się</string>
+    <string name="sign_up">Rejestracja</string>
+</resources>
